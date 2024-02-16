@@ -9,7 +9,7 @@ public class BD {
     private final String server= "localhost";
     private final String username = "root";
     private final String password = "";
-    private final String bd = "devoir_java";
+    private final String bd = "devoir_iage";
     private final String url = ""
             + "jdbc:mysql://"+server+":3306/"+bd;
     private Connection conn;
